@@ -1,2 +1,3 @@
 Initial setup with index.html
 Added basic layout and input field
+Added addTask function
