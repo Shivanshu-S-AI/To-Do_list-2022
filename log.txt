@@ -5,3 +5,4 @@ Created task delete button
 Improved CSS styling
 Added localStorage save
 Enabled task load on refresh
+Handled empty input validation
