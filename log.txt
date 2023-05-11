@@ -8,3 +8,4 @@ Enabled task load on refresh
 Handled empty input validation
 Responsive layout update
 Code cleanup
+Refactored JS functions
