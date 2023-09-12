@@ -10,3 +10,4 @@ Responsive layout update
 Code cleanup
 Refactored JS functions
 Added custom placeholder text
+Icon tweaks for delete
