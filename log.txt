@@ -14,3 +14,4 @@ Icon tweaks for delete
 Improved color theme
 Polished layout margins
 Improved font usage
+Added date to tasks
