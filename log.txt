@@ -16,3 +16,4 @@ Polished layout margins
 Improved font usage
 Added date to tasks
 Fixed bug with localStorage
+Commented code for readability
