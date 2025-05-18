@@ -18,3 +18,4 @@ Added date to tasks
 Fixed bug with localStorage
 Commented code for readability
 Optimized rendering speed
+Resumed project - UI fixes
