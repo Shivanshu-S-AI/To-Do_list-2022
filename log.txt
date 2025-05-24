@@ -19,3 +19,4 @@ Fixed bug with localStorage
 Commented code for readability
 Optimized rendering speed
 Resumed project - UI fixes
+Improved mobile responsiveness
