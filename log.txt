@@ -20,3 +20,4 @@ Commented code for readability
 Optimized rendering speed
 Resumed project - UI fixes
 Improved mobile responsiveness
+Dark mode option started
