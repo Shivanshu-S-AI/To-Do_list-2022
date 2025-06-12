@@ -22,3 +22,4 @@ Resumed project - UI fixes
 Improved mobile responsiveness
 Dark mode option started
 Finished dark mode
+Todo Editing...
